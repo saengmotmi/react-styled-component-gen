@@ -1,14 +1,14 @@
 {
-  "name": "react-component-gen",
+  "name": "react-styled-component-gen",
   "version": "0.1.0",
-  "description": "react-component-gen",
+  "description": "react-styled-component-gen",
   "main": "dist/index.min.js",
   "scripts": {
     "dev": "nodemon --watch 'src/**/*.ts' --exec 'ts-node' src/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "react-component-gen",
+    "react-styled-component-gen",
     "react"
   ],
   "author": {
@@ -30,6 +30,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/saengmotmi/react-component-gen"
+    "url": "https://github.com/saengmotmi/react-styled-component-gen"
   }
 }
