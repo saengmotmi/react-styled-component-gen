@@ -7,5 +7,5 @@
 ### How to use it?
 
 ```bash
-$ npx react-styled-component-gen [componentName]
+$ react-gen [componentName]
 ```

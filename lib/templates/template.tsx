@@ -1,4 +1,4 @@
-import { Container } from "./ComponentName.style";
+import { Container } from "lib/templates/ComponentName.style";
 
 const ComponentName = () => {
   return <Container>ComponentName</Container>;
